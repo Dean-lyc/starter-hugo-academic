@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Machine Learning Theory and Application
+  - Machine Learning Theory
   - Bayesian Inference
 
 # Education to show in About widget
@@ -30,7 +30,7 @@ education:
     - course: BSc in Data Science and Big Data Technology
       institution: Peking University
       year: 2021
-      - course: BSc in Mathematics and Applied Mathematics
+    - course: BSc in Mathematics and Applied Mathematics
       institution: Peking University
       year: 2021
 
