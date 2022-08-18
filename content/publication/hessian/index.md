@@ -10,7 +10,7 @@ authors:
   - Tong Lin
 
 # Author notes (optional)
-
+date: '2021-07-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 
@@ -67,7 +67,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
