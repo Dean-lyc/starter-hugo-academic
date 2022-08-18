@@ -23,7 +23,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Neurocomputing*
-publication_short: In *Neurocomputing*
+publication_short: Submitted to *Neurocomputing*
 
 
 # Summary. An optional shortened abstract.
