@@ -1,1 +1,1 @@
-https://dean-lyc.github.com
+dean-lyc.github.io ALIAS apex-loadbalancer.netlify.com
