@@ -58,7 +58,7 @@ email: ''
 highlight_name: true
 ---
 
-Yucong Liu is a statistics master student from University of Chicago. His research interests include  interpretation of machine learning, bayesian inference and all kinds of machine learning application.
+Yucong Liu is a statistics master student from University of Chicago. His research interests include  interpretation of machine learning, bayesian inference and  data-centric machine learning application.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
