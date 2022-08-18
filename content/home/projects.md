@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Bayesian Inference
+      tag: Bayesian Inference
     - name: Other
       tag: Demo
 

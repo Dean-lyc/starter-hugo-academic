@@ -1,16 +1,4 @@
 ---
-title: LU decomposition of neural network
-tags:
-  - Deep learning
----
-title: Synthetic data
-tags:
-  - Deep Learning
----
-title: Path Tracing
-tags:
-  - Bayesian Inference
----
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
